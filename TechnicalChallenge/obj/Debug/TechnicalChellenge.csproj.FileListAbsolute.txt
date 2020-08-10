@@ -1,0 +1,14 @@
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\TechnicalChellenge.pdb
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\TechnicalChellenge.csprojAssemblyReference.cache
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\TechnicalChellenge.csproj.CoreCompileInputs.cache
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\TechnicalChellenge.pdb
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\TechnicalChellenge.exe.config
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\TechnicalChellenge.exe
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\TechnicalChellenge.exe
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\bin\Debug\TechnicalChellenge.exe.config
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\bin\Debug\TechnicalChellenge.exe
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\bin\Debug\TechnicalChellenge.pdb
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\obj\Debug\TechnicalChellenge.csprojAssemblyReference.cache
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\obj\Debug\TechnicalChellenge.csproj.CoreCompileInputs.cache
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\obj\Debug\TechnicalChellenge.exe
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChellenge\obj\Debug\TechnicalChellenge.pdb

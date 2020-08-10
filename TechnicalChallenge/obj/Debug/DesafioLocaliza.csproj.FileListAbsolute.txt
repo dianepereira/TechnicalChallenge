@@ -1,0 +1,6 @@
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\DesafioLocaliza.exe.config
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\DesafioLocaliza.exe
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\bin\Debug\DesafioLocaliza.pdb
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\DesafioLocaliza.csproj.CoreCompileInputs.cache
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\DesafioLocaliza.exe
+C:\Users\diane.pereira\source\repos\DesafioLocaliza\DesafioLocaliza\obj\Debug\DesafioLocaliza.pdb

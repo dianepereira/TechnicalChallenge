@@ -1,0 +1,6 @@
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\bin\Release\TechnicalChallenge.exe.config
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\bin\Release\TechnicalChallenge.exe
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\bin\Release\TechnicalChallenge.pdb
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\obj\Release\TechnicalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\obj\Release\TechnicalChallenge.exe
+C:\Users\diane.pereira\source\repos\TechnicalChellenge\TechnicalChallenge\obj\Release\TechnicalChallenge.pdb
